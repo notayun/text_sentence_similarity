@@ -17,8 +17,8 @@ Calculated the following metrics for each model:
 - Cohen's Kappa
 
 ## 4. TOPSIS Score Calculation
-Utilized the custom 'Topsis-Rohan-102103108' package to compute TOPSIS scores based on the model performance metrics.
-[Link to Topsis-Rohan-102103108 Package](https://pypi.org/project/Topsis-Rohan-102103108/)
+Utilized the custom 'Topsis-Ayun-102167007' package to compute TOPSIS scores based on the model performance metrics.
+[Link to Topsis-Ayun-102167007 Package](https://pypi.org/project/Topsis-Ayun-102167007/)
 
 ## 5. Visualization
 Plotted a bar graph to visually represent the TOPSIS scores of each model.
@@ -35,15 +35,15 @@ Plotted a bar graph to visually represent the TOPSIS scores of each model.
 
 **TOPSIS Score Calculation:**
 - Custom package used for TOPSIS score computation.
-- [Link to Topsis-Rohan-102103108 Package](https://pypi.org/project/Topsis-Rohan-102103108/)
+- [Link to Topsis-Ayun-102167007 Package](https://pypi.org/project/Topsis-Rohan-102103108/)
 
 **Visualization:**
 - Bar graph illustrating the TOPSIS scores of each model.
 
 ## How to Use
-1. Install the 'Topsis-Rohan-102103108' package:
+1. Install the 'Topsis-Rohan-102167007' package:
     ```bash
-    pip install Topsis-Rohan-102103108
+    pip install Topsis-Rohan-102167007
     ```
 
 2. Run your model evaluation and TOPSIS score analysis using the provided code.
