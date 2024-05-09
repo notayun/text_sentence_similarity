@@ -41,9 +41,9 @@ Plotted a bar graph to visually represent the TOPSIS scores of each model.
 - Bar graph illustrating the TOPSIS scores of each model.
 
 ## How to Use
-1. Install the 'Topsis-Rohan-102167007' package:
+1. Install the 'Topsis-Ayun-102167007' package:
     ```bash
-    pip install Topsis-Rohan-102167007
+    pip install Topsis-Ayun-102167007
     ```
 
 2. Run your model evaluation and TOPSIS score analysis using the provided code.
